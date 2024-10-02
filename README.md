@@ -13,7 +13,7 @@
 ## 👉 시연 영상
 
 ## 👉 화면
-![image](https://github.com/user-attachments/assets/c589c8d6-d49e-439a-a49f-fa902565bb1b)
+![image](https://github.com/user-attachments/assets/cdda68e8-d1a3-46b1-8660-876196b45f14)
 
 ## 추가 작업
 시연영상
