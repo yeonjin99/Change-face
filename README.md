@@ -16,7 +16,6 @@
 ![image](https://github.com/user-attachments/assets/cdda68e8-d1a3-46b1-8660-876196b45f14)
 
 ## 추가 작업
-시연영상
 
 전체 화면 업로드
 
