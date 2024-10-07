@@ -10,13 +10,5 @@
 - AI 기술을 활용한 상호작용적 체험으로 미래에 대한 상상력 자극
 - 직업에 대한 흥미 증진
 
-## 👉 시연 영상
-
 ## 👉 화면
 ![image](https://github.com/user-attachments/assets/cdda68e8-d1a3-46b1-8660-876196b45f14)
-
-## 추가 작업
-
-전체 화면 업로드
-
-sample 사진 변경
