@@ -15,4 +15,5 @@
 
 ## 👉 시연 영상
 * 실제 기업 PT에 사용된 영상으로, 기업 이름 변경 및 아이디 변경 과정을 거친 영상입니다
-https://youtu.be/2JTe_rfLFVA
+
+[시연영상](https://youtu.be/2JTe_rfLFVA)
