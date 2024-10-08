@@ -14,6 +14,6 @@
 ![image](https://github.com/user-attachments/assets/cdda68e8-d1a3-46b1-8660-876196b45f14)
 
 ## 👉 시연 영상
-* 실제 기업 PT에 사용된 영상으로, 기업 이름 변경 및 아이디 변경 과정을 거친 영상입니다
+* 실제 기업 PT에 사용된 영상으로, 이름 변경 및 아이디 변경을 추가 작업한 영상입니다
 
 [시연영상](https://youtu.be/2JTe_rfLFVA)
