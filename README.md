@@ -10,5 +10,9 @@
 - AI 기술을 활용한 상호작용적 체험으로 미래에 대한 상상력 자극
 - 직업에 대한 흥미 증진
 
-## 👉 화면
+## 👉 메인 화면
 ![image](https://github.com/user-attachments/assets/cdda68e8-d1a3-46b1-8660-876196b45f14)
+
+## 👉 시연 영상
+* 실제 기업 PT에 사용된 영상으로, 기업 이름 변경 및 아이디 변경 과정을 거친 영상입니다
+https://youtu.be/2JTe_rfLFVA
